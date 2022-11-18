@@ -1,0 +1,13 @@
+public class Funcionario
+{
+    public String nome;
+    public String CPF;
+    public String email;
+
+    public void imprimir ()
+    {
+        System.out.println(nome);
+        System.out.println(CPF);
+        System.out.println(email);
+    }
+}
