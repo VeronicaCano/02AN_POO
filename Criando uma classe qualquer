@@ -13,7 +13,7 @@ public class Funcionario
     }
 }
 
-// Criação de objeto func1 no Main
+// Criação de objeto func1 no Main e impressão dos dados do objeto utilizando o metódo imprimir()
 
 public class Main
 {
