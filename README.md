@@ -1,2 +1,3 @@
 # -315-02AN---POO
-Pasta dedicada a matéria de Programação orientada a Objetos (USCS) em que a linguagem utilizada será Java.
+Pasta dedicada a matéria de Programação orientada a Objetos (USCS).
+Linguagem de programação utiliza: Java.
